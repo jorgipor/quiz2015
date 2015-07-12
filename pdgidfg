@@ -1,0 +1,19 @@
+* [33m9181b19c3796a28b2748bf3d1d02f0ca7a44a566[m Autoload
+* [33mce606a868e1034cadd6575cec0485997024acca9[m Lista de preguntas
+* [33mc48fc3d101028dd7410a45d93d2a013493b82571[m Despliegue DB en Heroku
+* [33mbf735f62a5a7de007655c0279a718861e686d94b[m database sqlite
+* [33m40db3ee034869bd7a05f44498dce65c5bc35ca1f[m Despliegue en Heroku
+* [33m925de0a0d75692bbbd0fdec6ac52c429506ffc76[m Créditos
+*   [33m2dd9055f818b9ec4ee17f15727a95bc09b16f143[m Merge branch 'master' of github.com:jorgipor/quiz2015
+[32m|[m[33m\[m  
+[32m|[m * [33m3c910eb39d9a5adff552cd757cbb535b508c92c1[m Delete .gitignore
+* [33m|[m [33m2d416572adb0dc5880f4f453aec21d67adaa9b28[m push to remote 2
+* [33m|[m   [33m4235e60645e00a5b6fa1df204684b6b8c7380544[m push to remote
+[34m|[m[33m\[m [33m\[m  
+[34m|[m [33m|[m[33m/[m  
+[34m|[m * [33m37e64173515a7cd1263de10c6faf320702bb0486[m Initial commit
+* [33m0dab75cf1118b7a3ff779ea66dc6bd9400c4ff79[m CSS responsive
+* [33m973ce90ebf46c95f87d1fe27d0ef267004a7270d[m Vistas parciales
+* [33m0e89ef907e50c1e7ed1a29415ab0dd54a61e343b[m Primera pregunta
+* [33m3c9867578f8f54d4805d2e1813fb2742d32ef126[m index y favicon
+* [33m1dc1449f141095bf67396f301525fe6f2a241bff[m esqueleto express generator
