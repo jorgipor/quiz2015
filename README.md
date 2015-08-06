@@ -1,6 +1,6 @@
 # quiz2015
 
-Trivia portal
+NodeJS Trivia portal
 
 Deployed on:
 https://jorgipor-quiz-2015.herokuapp.com/
